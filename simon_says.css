@@ -1,0 +1,36 @@
+#main{
+    border: 2px solid black;
+    padding: 10px;
+    margin: auto;
+    height: 490px;
+    width: 490px;
+    border-radius: 25px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+div div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin: 20px;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
